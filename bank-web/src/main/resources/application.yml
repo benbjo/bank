@@ -1,0 +1,8 @@
+bank:
+  integration:
+    brevtjeneste:
+      url: 'http://localhost/brevtjeneste/api/'
+      port: '8080'
+    fagsystem:
+      url: 'http://localhost/fagsystem/api/'
+      port: '8080'
